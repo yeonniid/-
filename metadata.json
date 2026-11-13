@@ -1,0 +1,6 @@
+{
+  "name": "기후-종교 오버레이 맵 (금기 음식의 지리학)",
+  "description": "종교적 금기 음식(돼지고기, 소고기)의 분포가 자연지리적 환경(기후, 수자원)과 어떻게 연관되어 있는지 학생 스스로 탐구하는 인터랙티브 세계지도",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
